@@ -9,7 +9,7 @@
 
 Welcome to my Github page! I am Iván and I am currently finishing Web Application Developement in IES Gran Capitán.
 
-#### 🌱 Things I am currently working on: 
+#### :computer: Things I am currently working on: 
 - Finishing Web Application Developement  
 
 #### :muscle: Things I am challenging myself with:
